@@ -1,0 +1,12 @@
+{
+  "LICENZA-DEMO-2026": {
+    "deviceId": "DEV-123456",
+    "expiryDate": "2026-12-31",
+    "active": true
+  },
+  "CLIENTE-001-KEY": {
+    "deviceId": "ABC-987654",
+    "expiryDate": "2026-10-15",
+    "active": true
+  }
+}
